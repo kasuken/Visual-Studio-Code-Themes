@@ -1,0 +1,23 @@
+{
+    "name": "retro-wave-junkie",
+    "displayName": "Retro Wave Junkie",
+    "description": "A Visual Studio Code theme inspired by Retro Wave music",
+    "version": "0.0.1",
+    "publisher": "emanuelebartolesi",
+    "repository": "https://github.com/kasuken/Visual-Studio-Code-Themes.git",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Retro Wave Junkie",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Retro Wave Junkie-color-theme.json"
+            }
+        ]
+    }
+}

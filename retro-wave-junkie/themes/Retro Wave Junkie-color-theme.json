@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./RetroWaveJunkie.tmtheme",
+	"colors": {
+		"editor.background": "#000c18",
+		"editorCursor.foreground": "#ddbb88",
+		"editor.foreground": "#6688cc",
+		"editorWhitespace.foreground": "#002040",
+		"editor.lineHighlightBackground": "#082050",
+		"editor.selectionBackground": "#770811"
+	},
+	"name": "Retro Wave Junkie"
+}
