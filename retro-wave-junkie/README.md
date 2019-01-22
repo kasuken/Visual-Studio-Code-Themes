@@ -2,4 +2,4 @@
 
 A simple dark theme for Visual Studio Code inspired by Retro Wave music.
 
-![](RetroWaveJunkieMainScreen.jpg)
+![](https://github.com/kasuken/Visual-Studio-Code-Themes/raw/master/retro-wave-junkie/RetroWaveJunkieMainScreen.jpg)
