@@ -1,0 +1,19 @@
+{
+    "name": "github-2019",
+    "displayName": "GitHub 2019",
+    "description": "Visual Studio Code theme inspired by GitHub, because everyone loves its colors.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "GitHub 2019",
+            "uiTheme": "vs",
+            "path": "./themes/GitHub 2019-color-theme.json"
+        }]
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./GitHub2019.tmTheme",
+	"colors": {
+		"editor.background": "#F8F8FF",
+		"editorCursor.foreground": "#000000",
+		"editor.foreground": "#000000",
+		"editorWhitespace.foreground": "#BFBFBF",
+		"editor.lineHighlightBackground": "#00000012",
+		"editor.selectionBackground": "#BCD5FA"
+	},
+	"name": "GitHub 2019"
+}

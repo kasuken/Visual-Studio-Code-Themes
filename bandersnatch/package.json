@@ -1,0 +1,23 @@
+{
+    "name": "bandersnatch",
+    "displayName": "Bandersnatch",
+    "description": "Theme for Visual Studio Code inspired by Netflix serie Bandersnatch",
+    "version": "0.0.1",
+    "publisher": "emanuelebartolesi",
+    "author": {
+        "name": "Emanuele Bartolesi"
+    },
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Bandersnatch",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Bandersnatch-color-theme.json"
+        }]
+    }
+}
