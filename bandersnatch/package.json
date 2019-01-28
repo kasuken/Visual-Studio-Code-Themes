@@ -2,11 +2,26 @@
     "name": "bandersnatch",
     "displayName": "Bandersnatch",
     "description": "Theme for Visual Studio Code inspired by Netflix serie Bandersnatch",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "emanuelebartolesi",
     "author": {
         "name": "Emanuele Bartolesi"
     },
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"bugs": {
+		"url": "https://github.com/kasuken/visual-studio-code-themes/issues",
+		"email": "bartolesiemanuele@hotmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kasuken/visual-studio-code-themes.git"
+    },
+    "icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#FFFFFF",
+		"theme": "dark"
+	},
+	"homepage": "https://github.com/kasuken/visual-studio-code-themes/blob/master/README.md",
     "engines": {
         "vscode": "^1.30.0"
     },

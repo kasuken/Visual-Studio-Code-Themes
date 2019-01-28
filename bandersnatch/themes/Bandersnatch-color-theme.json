@@ -1,12 +1,27 @@
 {
-	"tokenColors": "./bandersnatch.ththeme",
+	"tokenColors": "./bandersnatch.tmtheme",
 	"colors": {
-		"editor.background": "#101010",
+		"editor.background": "#2b2926",
+		"panel.background": "#2b2926",
 		"editorCursor.foreground": "#F8F8F0",
 		"editor.foreground": "#F8F8F2",
-		"editorWhitespace.foreground": "#3B3A32",
-		"editor.lineHighlightBackground": "#3E3D32",
-		"editor.selectionBackground": "#49483E"
+		"editor.lineHighlightBackground": "#1d1f30",
+		"editorWhitespace.foreground": "#4F5987",
+		"editor.selectionBackground": "#656FA4",
+		"sideBar.background": "#2b2926",
+		"sideBar.foreground": "#F8F8F2",
+		"sideBar.dropBackground": "#2a2d46",
+		"sideBarSectionHeader.background": "#2b2926",
+		"input.background": "#2a2d46",
+		"list.activeSelectionBackground": "#2a2d46",
+		"sideBarSectionHeader.foreground": "#F8F8F2",
+		"activityBar.background": "#2b2926",
+		"activityBar.foreground": "#F8F8F2",
+		"titleBar.activeBackground": "#191B2A",
+		"editorGroupHeader.tabsBackground": "#2b2926",
+		"titleBar.activeForeground": "#F8F8F2",
+		"tab.inactiveBackground": "#3c4367"
 	},
+
 	"name": "Bandersnatch"
 }
