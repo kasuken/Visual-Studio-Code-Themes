@@ -3,6 +3,25 @@
     "displayName": "GitHub 2019",
     "description": "Visual Studio Code theme inspired by GitHub, because everyone loves its colors.",
     "version": "1.0.0",
+    "publisher": "emanuelebartolesi",
+    "author": {
+		"name": "Emanuele Bartolesi"
+	},
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"bugs": {
+		"url": "https://github.com/kasuken/visual-studio-code-themes/issues",
+		"email": "bartolesiemanuele@hotmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kasuken/visual-studio-code-themes.git"
+    },
+    "icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#FFFFFF",
+		"theme": "light"
+	},
+	"homepage": "https://github.com/kasuken/visual-studio-code-themes/blob/master/README.md",
     "engines": {
         "vscode": "^1.30.0"
     },
